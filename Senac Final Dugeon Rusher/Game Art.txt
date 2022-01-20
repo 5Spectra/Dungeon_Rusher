@@ -1,0 +1,7 @@
+Art Style
+
+8x8 - Pequeno
+
+16x16 - Medio
+
+32x32 - Grande

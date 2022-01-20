@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19cfd0c2454f6948bd575d3f0f772d4, type: 3}
+  m_Name: Invencibilidade
+  m_EditorClassIdentifier: 
+  aName: Invencibilidade
+  aSprite: {fileID: 21300014, guid: 4779aa1bf1624734495e8dddc5c6abf8, type: 3}
+  aSound: {fileID: 8300000, guid: 1682be7bc3123409d91a7dcea2cd1f29, type: 3}
+  aEfeito: {fileID: 1651049618514794, guid: cf115077aa7d85f47a15b087cf3ee804, type: 2}
+  aBaseCoolDown: 20

@@ -1,0 +1,19 @@
+Plano de Fundo		0
+
+Detalhes do Plano de Fundo	1
+
+Objeto de fundo longe	2
+
+Objeto de fundo perto	3
+
+Cenario			4
+
+Chao			5
+
+Chao Detalhes		6
+
+Criaturas			7
+
+Efeitos Espeiais		8
+
+Heroi			9

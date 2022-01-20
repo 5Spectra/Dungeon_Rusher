@@ -1,0 +1,44 @@
+Atributos: Ataque, Defesa, Magia, Velocidade
+
+Soul Coin (Dinheiro da Alma):
+
+
+- Comprar Atributos (infinito).
+. A cada compra o preço aumenta em 100.
+
+- Comprar Equipamentos
+. Aumenta mem X% a quantidade do Atributo.
+. Podem ser aprimorados aumentando a porcentagem.
+. Arma (Lança)	-  Ataque
+. Armadura	- Defesa
+. Colar		- Magia
+. Botas		- Velocidade
+
+- Comprar Consumiveis (somente um pode ser usado por vez)
+. Quanto mais potente a poção mais caro custa.
+. Pode-se ter até 10 poções por tipo
+. Em uma RUN somente pode se ter 1 tipo de poção.
+. Uma poção pode ser usada a cada 5 segundos.
+.. Buffs em todos os atributos.
+.. Poção de Tempo de Recarga.
+.. Poção de Cura.
+
+- Comprar Magias
+. Deve escolher entre 3/4 magias para usar.
+. Invencibilidade 	- Imune a dano por X segundos
+. 2x Ataque 	- dobra o atributo ataque por X segundos
+. 2x Velocidade 	- dobra o atributo Velocidade por X segundos
+. 2x Defesa 	- dobra o atributo Defesa por X segundos
+. 2x Gold 		- dobra o atributo Gold por X segundos
+. Super ataque 	- 4x o dano no proximo inimigo
+. Curar		- Cura X de vida
+. Cura Maior	- Cura X + nivel da magia de vida
+. Ignorar		- Inginora os proximos X oponentes
+. Menos Dano	- Os proximos X ataques não lhe darão dano
+. Empalada	- Causa X de dano no inimigo
+. Lançada		- Causa X de dano no inimigo
+. Trinity		- Causa dano igual a todos os seus atributos
+. Pele de Ferro	- Diminui o dano levado em X pelos proximos X ataques.
+. Ataques Rápidos	- Da 3x o dano
+. Pele de Aço 	- Diminui o dano levado em X pelos proximos X ataques.
+. Começo Pesado	- Passiva, lhe da mais X de velocidade até X de distancia.

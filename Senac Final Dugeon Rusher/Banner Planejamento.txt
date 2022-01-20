@@ -1,0 +1,11 @@
+Derrote Inimigos
+Personagem[Roxo] pulando em 3 a 5  inimigos
+
+Colete Moedas
+Muitas Soul Coins
+
+Aprimore seus Equipametos
+Mostrar 3 cores [Laranja, Verde, Rosa] e umas setas indicando aumento de força 
+
+Sobrepuje Bosses
+Personagem[Red] encarando o boss.

@@ -1,0 +1,9 @@
+Save/Load
+
+. Salvar o dinheiro (Soul Coin).
+. Salvar os numeros do Atributos adquiridos.
+. Salvar habilidades já adquiridas. (0 = não possue)
+. Salvar maior distancia.
+. Salvar itens. (0 = não possue)
+. Salvar Consumiveis.
+. Salvar Configurações.

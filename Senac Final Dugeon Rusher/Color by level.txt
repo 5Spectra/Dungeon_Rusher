@@ -1,0 +1,8 @@
+10	Laranja
+20	Roxo
+30	Azul Escuro
+40	Rosa
+50	Azul Claro
+60	Verde
+70	Vermelho
+80 	Dourado		
